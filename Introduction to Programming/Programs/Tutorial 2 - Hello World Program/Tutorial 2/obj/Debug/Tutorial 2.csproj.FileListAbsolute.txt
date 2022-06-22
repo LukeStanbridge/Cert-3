@@ -1,0 +1,14 @@
+C:\Users\bridg\Desktop\Tutorial 2\Tutorial 2\bin\Debug\Tutorial 2.exe.config
+C:\Users\bridg\Desktop\Tutorial 2\Tutorial 2\bin\Debug\Tutorial 2.exe
+C:\Users\bridg\Desktop\Tutorial 2\Tutorial 2\bin\Debug\Tutorial 2.pdb
+C:\Users\bridg\Desktop\Tutorial 2\Tutorial 2\obj\Debug\Tutorial 2.csproj.AssemblyReference.cache
+C:\Users\bridg\Desktop\Tutorial 2\Tutorial 2\obj\Debug\Tutorial 2.csproj.CoreCompileInputs.cache
+C:\Users\bridg\Desktop\Tutorial 2\Tutorial 2\obj\Debug\Tutorial 2.exe
+C:\Users\bridg\Desktop\Tutorial 2\Tutorial 2\obj\Debug\Tutorial 2.pdb
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Tutorial 2 - First Program\Tutorial 2\bin\Debug\Tutorial 2.exe.config
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Tutorial 2 - First Program\Tutorial 2\bin\Debug\Tutorial 2.exe
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Tutorial 2 - First Program\Tutorial 2\bin\Debug\Tutorial 2.pdb
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Tutorial 2 - First Program\Tutorial 2\obj\Debug\Tutorial 2.csproj.AssemblyReference.cache
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Tutorial 2 - First Program\Tutorial 2\obj\Debug\Tutorial 2.csproj.CoreCompileInputs.cache
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Tutorial 2 - First Program\Tutorial 2\obj\Debug\Tutorial 2.exe
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Tutorial 2 - First Program\Tutorial 2\obj\Debug\Tutorial 2.pdb

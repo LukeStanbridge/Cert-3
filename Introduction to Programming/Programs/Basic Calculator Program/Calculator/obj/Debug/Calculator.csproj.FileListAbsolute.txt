@@ -1,0 +1,14 @@
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Programs\Basic Calculator Program\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Programs\Basic Calculator Program\Calculator\bin\Debug\Calculator.exe
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Programs\Basic Calculator Program\Calculator\bin\Debug\Calculator.pdb
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Programs\Basic Calculator Program\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Programs\Basic Calculator Program\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Programs\Basic Calculator Program\Calculator\obj\Debug\Calculator.exe
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Programs\Basic Calculator Program\Calculator\obj\Debug\Calculator.pdb

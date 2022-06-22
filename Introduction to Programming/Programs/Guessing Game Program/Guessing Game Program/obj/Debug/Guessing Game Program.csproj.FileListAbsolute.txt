@@ -1,0 +1,7 @@
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Guessing Game Program\Guessing Game Program\bin\Debug\Guessing Game Program.exe.config
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Guessing Game Program\Guessing Game Program\bin\Debug\Guessing Game Program.exe
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Guessing Game Program\Guessing Game Program\bin\Debug\Guessing Game Program.pdb
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Guessing Game Program\Guessing Game Program\obj\Debug\Guessing Game Program.csproj.AssemblyReference.cache
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Guessing Game Program\Guessing Game Program\obj\Debug\Guessing Game Program.csproj.CoreCompileInputs.cache
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Guessing Game Program\Guessing Game Program\obj\Debug\Guessing Game Program.exe
+C:\Users\bridg\Desktop\AIE\Introduction to Programming\Guessing Game Program\Guessing Game Program\obj\Debug\Guessing Game Program.pdb

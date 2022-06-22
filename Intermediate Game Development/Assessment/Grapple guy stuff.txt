@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=twMkGTqyZvI - grapple mechanic
+https://www.youtube.com/watch?v=zc8ac_qUXQY - Basic menu design
+https://www.youtube.com/watch?v=Cq_Nnw_LwnI - Detailed menu design
+https://www.youtube.com/watch?v=JivuXdrIHK0 - Pause Menu
+https://www.youtube.com/watch?v=iAbaqGYdnyI&ab_channel=CodeMonkey - High Scores Menu
+https://www.youtube.com/watch?v=C1gCOoDU29M&ab_channel=SpeedTutor - volume control
+https://www.youtube.com/watch?v=YUcvy9PHeXs - new high score system
+
+Create 1 Level
+Add game title with particle system(smoke/mist and bright particles off letters) in Menu
+
+Maybe add cooler looking grapplhook(bright glowing colour with weapon)
+Maybe add secret rooms/platforms to grapple to with comedic collectibles(add collectibles menu or dispay collectibles on UI) floating or spinning colectibales
+Maybe add platform checkpoints
+Maybe try and implement assets

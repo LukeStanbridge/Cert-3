@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Assembly-CSharp",
+      "appliesTo": "Assembly-CSharp.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
